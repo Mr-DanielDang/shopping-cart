@@ -1,0 +1,46 @@
+img {
+    /*height: 75%;*/
+    width: 75%;
+    /* align-items: center; */
+}
+
+.img-thumbnail {
+    margin: 0.4rem 0.4rem;
+}
+
+.card {
+    min-width: 13rem;
+    max-width: 13rem;
+    min-height: fit-content;
+    max-height: fit-content;
+    margin: 0.5rem 0.25rem 0.5rem 0.25rem;
+}
+
+#productTable {
+    position: relative;
+    left: 2rem;
+}
+
+#productContent {
+    width: 13rem;
+    background-color: rgb(220, 220, 220);
+}
+
+#productName {
+    color: rgb(8, 110, 199);
+}
+
+#price {
+    color: brown;
+}
+
+table {
+    width: 70%;
+    max-width: 1000px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
